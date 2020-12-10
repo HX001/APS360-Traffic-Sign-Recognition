@@ -9,3 +9,7 @@ Dataset: The German Traffic Sign Detection Benchmark: http://benchmark.ini.rub.d
 
 The detection model is trained by used pretrained weight darknet53.conv.74 in Darknet framework from github: 
 https://github.com/AlexeyAB/darknet
+
+## 2. Classification
+
+Dataset: The German Traffic Sign Recognition Benchmark http://benchmark.ini.rub.de/?section=gtsrb&subsection=news
